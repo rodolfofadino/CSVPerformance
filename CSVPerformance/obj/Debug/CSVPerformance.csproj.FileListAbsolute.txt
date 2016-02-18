@@ -1,0 +1,6 @@
+E:\ProjetosTF\Utils\CSVPerformance\CSVPerformance\bin\Debug\CSVPerformance.exe.config
+E:\ProjetosTF\Utils\CSVPerformance\CSVPerformance\bin\Debug\CSVPerformance.exe
+E:\ProjetosTF\Utils\CSVPerformance\CSVPerformance\bin\Debug\CSVPerformance.pdb
+E:\ProjetosTF\Utils\CSVPerformance\CSVPerformance\obj\Debug\CSVPerformance.csprojResolveAssemblyReference.cache
+E:\ProjetosTF\Utils\CSVPerformance\CSVPerformance\obj\Debug\CSVPerformance.exe
+E:\ProjetosTF\Utils\CSVPerformance\CSVPerformance\obj\Debug\CSVPerformance.pdb
